@@ -1,5 +1,5 @@
 # Proyectos Independientes
-``` IMAGEN UNLOCK FACE ```
+
 Tabla_de_contenido
 =================
 
