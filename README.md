@@ -12,7 +12,7 @@ Tabla de contenido
 
 <!--ts-->
    * [Introduccion](#Introduccion)
-   * [Tabla_contenido](#Tabla de contenido)
+   * [Tabla de contenido](#Tabla contenido)
    * [Proyectos](#Proyectos)
       * [Detectar](#Detectar)
       * [Prueba Proyecto](#Prueba Proyecto)
