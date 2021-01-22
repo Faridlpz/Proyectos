@@ -1,6 +1,6 @@
 # Proyectos Independientes
 ![Aquí la descripción de la imagen por si no carga]
-(https://github.com/Faridlpz/Proyectos-UnlockFace/blob/main/WebUf/images/uf.png)
+(https://raw.githubusercontent.com/Faridlpz/Proyectos-UnlockFace/main/WebUf/images/uf.png)
 
 <h2> My independent projects </h2>
 
