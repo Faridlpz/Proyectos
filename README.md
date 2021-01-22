@@ -7,12 +7,12 @@ Introduccion
 
 
 
-Tabla_contenido
+Tabla de contenido
 =================
 
 <!--ts-->
-   * [introduccion](#Introduccion)
-   * [Tabla de contenido](#Tabla_contenido)
+   * [Introduccion](#Introduccion)
+   * [Tabla de contenido](#Tabla de contenido)
    * [Proyectos](#Proyectos)
       * [Detectar](#Detectar)
       * [Prueba Proyecto](#Prueba Proyecto)
