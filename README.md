@@ -1,21 +1,14 @@
 # Proyectos Independientes
-![Aquí la descripción de la imagen por si no carga]
 (https://raw.githubusercontent.com/Faridlpz/Proyectos-UnlockFace/main/WebUf/images/uf.png)
 
 <h2> My independent projects </h2>
-
-
-Introduccion
-=========
-  
-
 
 Tabla_de_contenido
 =================
 
 <!--ts-->
-   * [Introduccion](#Introduccion)
    * [Tabla de contenido](#Tabla_de_contenido)
+   * [Introduccion](#Introduccion)
    * [Proyectos](#Proyectos)
       * [Detectar](#Detectar)
       * [Prueba Proyecto](#Prueba_Proyecto)
@@ -25,6 +18,10 @@ Tabla_de_contenido
 <!--te-->
 
 
+Introduccion
+=========
+  El objetivo principal del proyecto es lograr que un plantel tenga una forma rápida, eficaz y segura de acceso para que el personal pueda ingresar o salir, además de informar los usuarios sobre la hora de la entrada y salida.
+  
 
 Proyectos
 =====
