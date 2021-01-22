@@ -1,4 +1,4 @@
-# Proyectos
+# Proyectos Independientes
 <h2> My independent projects </h2>
 
 
